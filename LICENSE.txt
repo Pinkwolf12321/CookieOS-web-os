@@ -1,0 +1,10 @@
+Copyright © 2025 Blyth Laiman Karl
+
+All rights reserved.
+
+Permission is granted to view and fork this project for personal, non-commercial, or educational use.  
+You may not modify or distribute unmodified versions of this code without explicit permission.  
+Substantial modifications are allowed if credit is properly given to the original creator.  
+Unauthorized reproduction, copying, or publication of the original source code is strictly forbidden.
+
+This software is provided "as is" with no warranty.
