@@ -66,3 +66,8 @@ Author's email: thepinkwolf2016@gmail.com
 ---
 
 Have fun! 🍪
+
+
+
+
+WARNING: CookieOS is in beta and may not work as expected.
