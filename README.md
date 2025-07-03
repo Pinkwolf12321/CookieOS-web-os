@@ -18,10 +18,10 @@ See LICENSE.txt for license.
 ---
 
 ### 📁 File Overview
-- README.md (this!)
-- LICENSE.txt (custom license)
-- manual.md (manual for CookieOS)
-- CookieOS.zip (contains index.html, style.css, and script.js)
+README.md (this!)  
+LICENSE.txt (custom license)  
+manual.md (manual for CookieOS)  
+CookieOS.zip (contains index.html, style.css, and script.js)  
 
 ---
 
