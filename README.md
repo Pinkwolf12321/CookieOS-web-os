@@ -18,16 +18,17 @@ See LICENSE.txt for license.
 ---
 
 ### 📁 File Overview
-README.md (this!)
-LICENSE.txt (custom license)
-manual.md (manual for CookieOS)
-CookieOS.zip (contains index.html, style.css, and script.js)
+- README.md (this!)
+- LICENSE.txt (custom license)
+- manual.md (manual for CookieOS)
+- CookieOS.zip (contains index.html, style.css, and script.js)
 
 ---
 
 ### 💻 Get Started
-1. **download/Clone the repo:**
+1. **Download/Clone the repo:**
    ```bash
+   sudo apt install git
    git clone https://github.com/Pinkwolf12321/CookieOS-web-os.git
    ```
 2. Open **index.html** in any browser
