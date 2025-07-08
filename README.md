@@ -9,6 +9,7 @@ CookieOS is a playful, web-based mock operating system that runs in your browser
 - Terminal: Run fake commands on a fake OS with fake files. (but real cookies)
 - IDE: Run JS snippets to make the OS say it loves cookies. (Results in inspect console, not app.)
 - App Upload: Because we never get enough apps. (Standalone HTML only.)
+- ✨New✨ Splash Screen: Fake splash screen for #realism
 
 ---
 
