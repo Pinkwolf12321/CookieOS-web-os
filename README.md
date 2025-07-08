@@ -45,6 +45,12 @@ CookieOS.zip v.{version} (contains index.html, style.css, and script.js)
 
 ---
 
+### 🎮 Demo
+Can you not be bothered to install **CookieOS**? Well, you're in luck! This quick demo is the LATEST version of CookieOS, minus offline.  
+**https://pinkwolf12321.github.io/CookieOS-web-os-demo/**
+
+---
+
 ### 🕒 Coming Soon
 - Theme Picker: Customize the colors
 - File Manager: Upload files to CookieOS
