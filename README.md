@@ -52,12 +52,12 @@ CookieOS.zip (contains index.html, style.css, and script.js)
 ---
 
 ### 👋 Meet The Maker
-*Personal Message, Date 02.07.2025*
-Hi! I'm P!nkwolf (Identity "secret"), and I made CookieOS as a passion project because WHY NOT!?!?! This was my first ever published PROPER piece of work, and I'm proud. BublGls™ UI is just the way I imagined! So, if you're reading this either on the CookieOS repo or in the OS, thank you so, so much.
-
-P!nkwolf,
-02/07/25
-*End Message*
+*Personal Message, Date 02.07.2025*  
+Hi! I'm P!nkwolf (Identity "secret"), and I made CookieOS as a passion project because WHY NOT!?!?! This was my first ever published PROPER piece of work, and I'm proud. BublGls™ UI is just the way I imagined! So, if you're reading this either on the CookieOS repo or in the OS, thank you so, so much.  
+  
+P!nkwolf,  
+02/07/25  
+*End Message*  
 
 ---
 
