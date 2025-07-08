@@ -22,13 +22,14 @@ See LICENSE.txt for license.
 README.md (this!)  
 LICENSE.txt (custom license)  
 manual.md (manual for CookieOS)  
-CookieOS.zip (contains index.html, style.css, and script.js)  
+CookieOS.zip v.{version} (contains index.html, style.css, and script.js)  
 
 ---
 
 ### 🖼 Screenshots
 <img width="584" alt="#1" src="https://github.com/user-attachments/assets/e24deb95-045e-4594-843f-3e914b669966" />
 <img width="635" alt="#2" src="https://github.com/user-attachments/assets/98f07040-b974-46ad-b3b3-a2ad261e7402" />
+<img width="262" alt="Screenshot 2025-07-08 144105" src="https://github.com/user-attachments/assets/170c45e5-32e3-43ee-93db-db14829df7c0" />
 
 
 ---
